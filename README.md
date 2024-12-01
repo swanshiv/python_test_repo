@@ -1,3 +1,5 @@
+[![Python Calculator Tests](https://github.com/swanshiv/python_test_repo/actions/workflows/python-tests.yml/badge.svg?branch=main)](https://github.com/swanshiv/python_test_repo/actions/workflows/python-tests.yml)
+
 # Python Calculator
 
 A simple calculator implementation with basic and advanced mathematical operations.
